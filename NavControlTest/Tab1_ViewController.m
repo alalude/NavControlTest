@@ -6,13 +6,13 @@
 //  Copyright (c) 2013 Akinbiyi Lalude. All rights reserved.
 //
 
-#import "NavControlTestViewController.h"
+#import "Tab1_ViewController.h"
 
-@interface NavControlTestViewController ()
+@interface Tab1_ViewController ()
 
 @end
 
-@implementation NavControlTestViewController
+@implementation Tab1_ViewController
 
 - (void)viewDidLoad
 {

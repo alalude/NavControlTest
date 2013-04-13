@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NavControlTestViewController : UIViewController
+@interface Tab1_ViewController : UIViewController
 
 @end
